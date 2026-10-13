@@ -1,9 +1,8 @@
-////////////////////////////////////////////////////////////////////////////     T1DIARY     /////////////////////////////////////////////////////////////////////////
-
-Simple android application for meal-logging, taylored for people with type 1 diabetes. 
+# T1DIARY
+Simple android application for meal-logging, tailored for people with type 1 diabetes. 
 The application aims to combine food tracking, insulin management, carbohydrate calculations, and personal logging in one convenient interface.
 
-The project is developed primarily for personal use, and as a learning exercise to gain experience in programming development. 
+This project is developed for personal use. 
 
 
 
@@ -15,7 +14,7 @@ FEATURES
 
 - Insulin Settings
     + I:C ratios: Configure and manage multiple insulin-to-carbohydrate ratios.
-    + Basal insulin settings: Store different basal insulin rates and set up automatical switching times.
+    + Basal insulin settings: Store different basal insulin rates and set up automatic switching times.
     + Temporary adjustments: Apply temporary changes to insulin-to-carbohydrate ratios or basal insulin rates.
     + Treatment modes: Switch between insulin pump and pen injection modes.
     + Insulin action duration: Configure the insulin's time of action.
