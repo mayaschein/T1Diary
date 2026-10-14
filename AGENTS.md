@@ -90,6 +90,12 @@ When asked to implement something substantial:
 4. Explain significant architectural changes.
 5. Verify the result after implementation.
 
+When asked to work on UI elements:
+
+1. Use MaterialTheme.colorScheme.primary rather than hardcoded colors.
+2. Include @Preview annotations in composables.
+
+
 When debugging:
 
 1. Investigate the error or logs first.
