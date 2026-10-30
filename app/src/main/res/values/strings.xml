@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">T1Diary</string>
+
+    <!-- Screen titles -->
+    <string name="title_logbook">Logbook</string>
+    <string name="title_food_database">Food Database</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- Top bar actions -->
+    <string name="action_home">Home</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Home screen -->
+    <string name="add_note">Add Note</string>
+    <string name="add_food">Add Food</string>
+    <string name="open_menu">Open menu</string>
+    <string name="close_menu">Close menu</string>
+
+    <!-- Placeholder screen content -->
+    <string name="placeholder_home">Home Screen</string>
+    <string name="placeholder_logbook">Logbook Screen</string>
+    <string name="placeholder_food_database">Food Database Screen</string>
+    <string name="placeholder_settings">Settings Screen</string>
 </resources>
